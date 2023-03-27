@@ -1,11 +1,17 @@
+#' Download and import enterprise agreements data from the Fair Work Commission
+#' @param path Path to directory in which downloaded Excel file should be stored
 #' @import dplyr
+#' @export
+#' @examples
+#' read_fwc()
+#'
 
-read_fwc <- function(path = tempdir(),
-                     fwc_url = get_fwc_link()) {
+read_fwc <- function(path = tempdir()) {
 
   fwc_file <- file.path(path, "fwc_ebas.xlsx")
+  fwc_url <- get_fwc_link()
 
-  download.file(url = fwc_url,
+  utils::download.file(url = fwc_url,
                 destfile = fwc_file,
                 mode = "wb")
 
@@ -36,9 +42,9 @@ tidy_fwc <- function(df) {
     tidyr::pivot_longer(cols = everything(),
                         names_to = "raw_colname",
                         values_to = "indicator") |>
-    mutate(union = if_else(substr(raw_colname, 1, 3) == "...",
+    mutate(union = if_else(substr(.data$raw_colname, 1, 3) == "...",
                          NA_character_,
-                         raw_colname)) |>
+                         .data$raw_colname)) |>
     tidyr::fill(union) |>
     filter(!is.na(union))
 
@@ -49,9 +55,9 @@ tidy_fwc <- function(df) {
     tidyr::pivot_longer(cols = -"date",
                         names_to = "raw_colname",
                         values_to = "value") |>
-    mutate(value = gsub("-|n/a", "", value),
-           value = as.numeric(value),
-           date = janitor::excel_numeric_to_date(as.numeric(date)))
+    mutate(value = gsub("-|n/a", "", .data$value),
+           value = as.numeric(.data$value),
+           date = janitor::excel_numeric_to_date(as.numeric(.data$date)))
 
   header |>
     left_join(body,

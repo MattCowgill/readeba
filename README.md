@@ -29,5 +29,20 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(readeba)
-## basic example code
+
+read_fwc()
+#> # A tibble: 749 × 4
+#>    date       indicator                                        union       value
+#>    <date>     <chr>                                            <chr>       <dbl>
+#>  1 2022-07-15 Number of agreement approval applications lodged Applicatio…    20
+#>  2 2022-07-29 Number of agreement approval applications lodged Applicatio…    26
+#>  3 2022-08-12 Number of agreement approval applications lodged Applicatio…    38
+#>  4 2022-08-26 Number of agreement approval applications lodged Applicatio…    31
+#>  5 2022-09-09 Number of agreement approval applications lodged Applicatio…    41
+#>  6 2022-09-23 Number of agreement approval applications lodged Applicatio…    15
+#>  7 2022-10-07 Number of agreement approval applications lodged Applicatio…    41
+#>  8 2022-10-21 Number of agreement approval applications lodged Applicatio…    36
+#>  9 2022-11-04 Number of agreement approval applications lodged Applicatio…    30
+#> 10 2022-11-18 Number of agreement approval applications lodged Applicatio…    29
+#> # … with 739 more rows
 ```
