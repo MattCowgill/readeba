@@ -37,8 +37,33 @@ This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
 library(readeba)
+library(tidyverse)
 
-read_fwc()
+fwc <- read_fwc()
 
+fwc 
+```
 
+Visualise it!
+```{r}
+fwc |> 
+  filter(union == "Total",
+         indicator == "AAWI (%)") |> 
+  ggplot(aes(x = date, y = value)) +
+  geom_line() +
+  theme_minimal()
+```
+
+```{r}
+fwc |> 
+  filter(union == "Total") |> 
+  pivot_wider(names_from = indicator) |> 
+  ggplot(aes(x = date, 
+             y = `AAWI (%)`,
+             weight = `Employees covered (No.)` )) +
+  geom_point(aes(size = `Employees covered (No.)`)) +
+  geom_smooth(method = "loess",
+              formula = y ~ x,
+              se = FALSE) +
+  scale_y_continuous(limits = \(x) c(0, x[2]))
 ```

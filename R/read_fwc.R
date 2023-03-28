@@ -18,12 +18,12 @@ read_fwc <- function(path = tempdir()) {
   import_result <- purrr::quietly(readxl::read_excel)(fwc_file)
 
   if (inherits(import_result$result, "tbl")) {
-    df <- import_result$result
+    raw_df <- import_result$result
   } else {
     stop("Could not import FWC dataframe")
   }
 
-  tidy_fwc(df)
+  tidy_fwc(raw_df)
 }
 
 get_fwc_link <- function(url = "https://www.fwc.gov.au/documents/resources/enterprise-agreements-data.xlsx") {
@@ -36,8 +36,8 @@ get_fwc_link <- function(url = "https://www.fwc.gov.au/documents/resources/enter
   stop("EBA URL not working")
 }
 
-tidy_fwc <- function(df) {
-  header <- df |>
+tidy_fwc <- function(raw_df) {
+  header <- raw_df |>
     filter(row_number() <= 2) |>
     tidyr::pivot_longer(cols = everything(),
                         names_to = "raw_colname",
@@ -45,10 +45,13 @@ tidy_fwc <- function(df) {
     mutate(union = if_else(substr(.data$raw_colname, 1, 3) == "...",
                          NA_character_,
                          .data$raw_colname)) |>
-    tidyr::fill(union) |>
-    filter(!is.na(union))
+    tidyr::fill("union") |>
+    filter(!is.na(.data$union)) |>
+    group_by(.data$raw_colname, .data$union) |>
+    summarise(indicator = paste0(indicator, collapse = " ")) |>
+    ungroup()
 
-  body <- df |>
+  body <- raw_df |>
     filter(row_number() > 2) |>
     filter(!is.na(.data$`Application lodged by a Union`)) |>
     rename(date = "...1") |>
@@ -63,5 +66,7 @@ tidy_fwc <- function(df) {
     left_join(body,
               by = "raw_colname",
               multiple = "all") |>
+    filter(!is.na(.data$value),
+           !is.na(.data$date)) |>
     select("date", "indicator", "union", "value")
 }
