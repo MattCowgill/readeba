@@ -48,7 +48,7 @@ tidy_fwc <- function(raw_df) {
     tidyr::fill("union") |>
     filter(!is.na(.data$union)) |>
     group_by(.data$raw_colname, .data$union) |>
-    summarise(indicator = paste0(indicator, collapse = " ")) |>
+    summarise(indicator = paste0(.data$indicator, collapse = " ")) |>
     ungroup()
 
   body <- raw_df |>
