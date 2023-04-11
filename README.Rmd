@@ -65,5 +65,6 @@ fwc |>
   geom_smooth(method = "loess",
               formula = y ~ x,
               se = FALSE) +
-  scale_y_continuous(limits = \(x) c(0, x[2]))
+  scale_y_continuous(limits = \(x) c(0, x[2])) +
+  scale_x_date(breaks = \(x) seq(x[2], x[1], by = "-6 months"))
 ```
