@@ -44,7 +44,7 @@ library(tidyverse)
 fwc <- read_fwc()
 
 fwc 
-#> # A tibble: 390 × 4
+#> # A tibble: 412 × 4
 #>    date       indicator               union  value
 #>    <date>     <chr>                   <chr>  <dbl>
 #>  1 2022-07-15 Employees covered (No.) Total  19132
@@ -57,7 +57,7 @@ fwc
 #>  8 2022-10-21 Employees covered (No.) Total  16294
 #>  9 2022-11-04 Employees covered (No.) Total 100074
 #> 10 2022-11-18 Employees covered (No.) Total  24113
-#> # … with 380 more rows
+#> # … with 402 more rows
 ```
 
 Visualise it!
