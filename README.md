@@ -29,22 +29,13 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(readeba)
+options(tidyverse.quiet = TRUE)
 library(tidyverse)
-#> ── Attaching core tidyverse packages ─────────────────── tidyverse 1.3.2.9000 ──
-#> ✔ dplyr     1.1.0          ✔ readr     2.1.4     
-#> ✔ forcats   1.0.0          ✔ stringr   1.5.0     
-#> ✔ ggplot2   3.4.0.9000     ✔ tibble    3.1.8     
-#> ✔ lubridate 1.9.1          ✔ tidyr     1.3.0     
-#> ✔ purrr     1.0.1          
-#> ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-#> ✖ dplyr::filter() masks stats::filter()
-#> ✖ dplyr::lag()    masks stats::lag()
-#> ℹ Use the ]8;;http://conflicted.r-lib.org/conflicted package]8;; to force all conflicts to become errors
 
 fwc <- read_fwc()
 
 fwc 
-#> # A tibble: 412 × 4
+#> # A tibble: 434 × 4
 #>    date       indicator               union  value
 #>    <date>     <chr>                   <chr>  <dbl>
 #>  1 2022-07-15 Employees covered (No.) Total  19132
@@ -57,7 +48,7 @@ fwc
 #>  8 2022-10-21 Employees covered (No.) Total  16294
 #>  9 2022-11-04 Employees covered (No.) Total 100074
 #> 10 2022-11-18 Employees covered (No.) Total  24113
-#> # … with 402 more rows
+#> # … with 424 more rows
 ```
 
 Visualise it!

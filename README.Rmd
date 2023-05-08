@@ -37,6 +37,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
 library(readeba)
+options(tidyverse.quiet = TRUE)
 library(tidyverse)
 
 fwc <- read_fwc()
