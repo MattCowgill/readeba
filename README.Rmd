@@ -47,6 +47,7 @@ fwc
 
 Visualise it!
 
+
 ```{r}
 fwc |> 
   filter(union == "Total",
