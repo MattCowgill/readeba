@@ -26,7 +26,7 @@ read_fwc <- function(path = tempdir()) {
   tidy_fwc(raw_df)
 }
 
-get_fwc_link <- function(url = "https://www.fwc.gov.au/documents/resources/enterprise-agreements-data.xlsx") {
+get_fwc_link <- function(url = "https://www.fwc.gov.au/documents/reporting/enterprise-agreements-data.xlsx") {
   url_head <- httr::HEAD(url)
 
   if (url_head$status_code == 200) {
