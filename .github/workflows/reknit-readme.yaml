@@ -1,0 +1,46 @@
+
+on:
+  schedule:
+    - cron: '*/30 00-01 * * *'
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+name: refresh-data
+
+jobs:
+  refresh-data:
+    runs-on: macOS-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      R_KEEP_PKG_SOURCE: yes
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+
+      - uses: r-lib/actions/setup-pandoc@v2
+
+      - name: Install XQuartz on macOS
+        if: runner.os == 'macOS'
+        run: brew install xquartz --cask
+
+      - name: Install vctrs
+        run: Rscript -e 'install.packages(c("remotes"))'
+
+      - name: Install packages
+        run: Rscript -e 'remotes::install_deps()'
+
+      - name: Render README
+        run: Rscript -e 'rmarkdown::render(here::here("README.Rmd"))'
+
+      - name: Commit
+        run: |
+          git config --global user.name 'Matt Cowgill'
+          git config --global user.email 'mattcowgill@github.com'
+          git add .
+          git commit -m 'refreshing data' || echo "No changes to commit"
+          git push || echo "No changes to commit"
