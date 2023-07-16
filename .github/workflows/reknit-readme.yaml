@@ -24,8 +24,8 @@ jobs:
 
       - uses: r-lib/actions/setup-pandoc@v2
 
-      - name: Install vctrs
-        run: Rscript -e 'install.packages(c("remotes", "rmarkdown", "here"))'
+      - name: Install README deps
+        run: Rscript -e 'install.packages(c("remotes", "rmarkdown", "here", "tidyverse"))'
 
       - name: Install packages
         run: Rscript -e 'remotes::install_deps()'
