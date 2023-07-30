@@ -26,12 +26,13 @@ The goal of `{readeba}` is to download and import data on enterprise agreement s
 
 You can install the development version of readeba from [GitHub](https://github.com/) with:
 
+
 ``` r
 # install.packages("devtools")
 devtools::install_github("MattCowgill/readeba")
 ```
 
-## Example
+## Examples!
 
 This is a basic example which shows you how to solve a common problem:
 

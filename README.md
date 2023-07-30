@@ -23,7 +23,7 @@ You can install the development version of readeba from
 devtools::install_github("MattCowgill/readeba")
 ```
 
-## Example
+## Examples!
 
 This is a basic example which shows you how to solve a common problem:
 
