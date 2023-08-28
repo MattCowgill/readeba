@@ -10,8 +10,9 @@
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
-The goal of `{readeba}` is to download and import data on enterprise
-agreement settlements in Australia.
+The goal of `{readeba}` is to download and import [data on enterprise
+agreement settlements in Australia from the Fair Work
+Commission](https://www.fwc.gov.au/agreements-awards/enterprise-agreements/about-enterprise-agreements/statistical-reports-enterprise?idU=1).
 
 ## Installation
 
@@ -25,7 +26,8 @@ devtools::install_github("MattCowgill/readeba")
 
 ## Examples!
 
-This is a basic example which shows you how to solve a common problem:
+The package has one function: `read_fwc()`, which downloads and imports
+a tidy tibble containing the FWC EBA data:
 
 ``` r
 library(readeba)
@@ -51,7 +53,7 @@ fwc
 #> # ℹ 600 more rows
 ```
 
-Visualise it!
+It’s straightforward to visualise:
 
 ``` r
 fwc |> 
