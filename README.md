@@ -27,7 +27,7 @@ devtools::install_github("MattCowgill/readeba")
 ## Examples!
 
 The package has one function: `read_fwc()`, which downloads and imports
-a tidy tibble containing the FWC EBA data:
+a tidy tibble containing the FWC EBA data
 
 ``` r
 library(readeba)

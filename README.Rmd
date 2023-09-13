@@ -1,5 +1,7 @@
 ---
 output: github_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -14,6 +16,7 @@ knitr::opts_chunk$set(
 ```
 
 # readeba
+
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/MattCowgill/readeba/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/MattCowgill/readeba/actions/workflows/R-CMD-check.yaml)
@@ -34,7 +37,7 @@ devtools::install_github("MattCowgill/readeba")
 
 ## Examples!
 
-The package has one function: `read_fwc()`, which downloads and imports a tidy tibble containing the FWC EBA data:
+The package has one function: `read_fwc()`, which downloads and imports a tidy tibble containing the FWC EBA data
 
 ```{r example}
 library(readeba)
