@@ -66,6 +66,8 @@ fwc |>
 
 <img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
 
+Add a couple of different trendlines:
+
 ``` r
 fwc |> 
   filter(union == "Total") |> 
@@ -77,8 +79,27 @@ fwc |>
   geom_smooth(method = "loess",
               formula = y ~ x,
               se = FALSE) +
-  scale_y_continuous(limits = \(x) c(0, x[2])) +
-  scale_x_date(breaks = \(x) seq(x[2], x[1], by = "-6 months"))
+  geom_line(aes(y = slider::slide2_dbl(.x = `AAWI (%)`,
+                                       .y = `Employees covered (No.)`,
+                                       .f = \(x, y) weighted.mean(x, y),
+                                       # 6 fortnight weighted moving average
+                                       .before = 6L,
+                                       .complete = TRUE)),
+            na.rm = TRUE,
+            colour = "red") +
+  scale_x_date(breaks = seq(max(fwc$date), 
+                            min(fwc$date), 
+                            by = "-6 months"),
+               date_labels = "%d %b\n%Y",
+               expand = expansion(c(0.025, 0.075))) +
+  scale_y_continuous(labels = \(x) scales::percent(x / 100, 0.1),
+                     breaks = seq(0, 100, 0.5),
+                     limits = \(x) c(min(0, x[1]), x[2]),
+                     expand = expansion(c(0, 0.05))) +
+  theme_minimal() +
+  theme(axis.title.x = element_blank(),
+        legend.position = "bottom",
+        legend.direction = "horizontal")
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
