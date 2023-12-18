@@ -17,8 +17,8 @@ knitr::opts_chunk$set(
 
 # readeba
 
-
 <!-- badges: start -->
+
 [![R-CMD-check](https://github.com/MattCowgill/readeba/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/MattCowgill/readeba/actions/workflows/R-CMD-check.yaml)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
@@ -28,7 +28,6 @@ The goal of `{readeba}` is to download and import [data on enterprise agreement 
 ## Installation
 
 You can install the development version of readeba from [GitHub](https://github.com/) with:
-
 
 ``` r
 # install.packages("devtools")
@@ -49,7 +48,7 @@ fwc <- read_fwc()
 fwc 
 ```
 
-It's straightforward to visualise:
+It's straightforward to visualise!
 
 
 ```{r}

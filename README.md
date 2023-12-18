@@ -53,7 +53,7 @@ fwc
 #> # ℹ 776 more rows
 ```
 
-It’s straightforward to visualise:
+It’s straightforward to visualise!
 
 ``` r
 fwc |> 
