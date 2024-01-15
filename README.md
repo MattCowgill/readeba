@@ -66,7 +66,7 @@ fwc |>
 
 <img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
 
-Add a couple of different trendlines:
+Add a couple of different trend lines:
 
 ``` r
 fwc |> 

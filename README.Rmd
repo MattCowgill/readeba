@@ -60,7 +60,7 @@ fwc |>
   theme_minimal()
 ```
 
-Add a couple of different trendlines:
+Add a couple of different trend lines:
 ```{r}
 fwc |> 
   filter(union == "Total") |> 
