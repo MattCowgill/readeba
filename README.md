@@ -56,12 +56,32 @@ fwc
 It’s straightforward to visualise!
 
 ``` r
+my_theme <- theme_minimal(base_family = "Roboto Condensed",
+                          base_size = 14) +
+  theme(panel.grid.minor = element_blank(),
+        axis.title = element_blank(),
+        plot.caption.position = "plot",
+        plot.title.position = "plot",
+        plot.caption = element_text(size = rel(0.6), hjust = 0),
+        legend.position = "bottom",
+        legend.direction = "horizontal")
+
+
 fwc |> 
   filter(union == "Total",
          indicator == "AAWI (%)") |> 
   ggplot(aes(x = date, y = value)) +
+  geom_point() +
   geom_line() +
-  theme_minimal()
+  scale_x_date(date_labels = "%d %b\n%Y",
+               breaks = seq(max(fwc$date),
+                            min(fwc$date),
+                            "-6 months")) +
+  scale_y_continuous(labels = \(x) paste0(x, "%"),
+                     expand = expansion(0.1)) +
+  my_theme +
+  labs(subtitle = "Average annualised wage increase (AAWI)\nin newly-lodged enterprise agreements",
+       caption = "Source: Fair Work Commission")
 ```
 
 <img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
@@ -75,31 +95,42 @@ fwc |>
   ggplot(aes(x = date, 
              y = `AAWI (%)`,
              weight = `Employees covered (No.)` )) +
-  geom_point(aes(size = `Employees covered (No.)`)) +
-  geom_smooth(method = "loess",
+  geom_point(aes(size = `Employees covered (No.)`),
+             alpha = 0.2) +
+  geomtextpath::geom_textsmooth(method = "loess",
+                                label = "LOESS trend",
+                                hjust = 0.1,
+                                vjust = -0.2,
               formula = y ~ x,
+              colour = "blue",
+              family = "Roboto Condensed",
               se = FALSE) +
-  geom_line(aes(y = slider::slide2_dbl(.x = `AAWI (%)`,
+  geomtextpath::geom_textline(aes(y = slider::slide2_dbl(.x = `AAWI (%)`,
                                        .y = `Employees covered (No.)`,
                                        .f = \(x, y) weighted.mean(x, y),
                                        # 6 fortnight weighted moving average
                                        .before = 6L,
                                        .complete = TRUE)),
             na.rm = TRUE,
+            label = "6 fortnight weighted moving average",
+            text_smoothing = 40,
+            family = "Roboto Condensed",
+            hjust = 0.15,
+            vjust = 1.2,
             colour = "red") +
   scale_x_date(breaks = seq(max(fwc$date), 
                             min(fwc$date), 
                             by = "-6 months"),
                date_labels = "%d %b\n%Y",
                expand = expansion(c(0.025, 0.075))) +
-  scale_y_continuous(labels = \(x) scales::percent(x / 100, 0.1),
-                     breaks = seq(0, 100, 0.5),
+  scale_y_continuous(labels = \(x) paste0(x, "%"),
+                     breaks = seq(0, 100, 1),
                      limits = \(x) c(min(0, x[1]), x[2]),
                      expand = expansion(c(0, 0.05))) +
-  theme_minimal() +
-  theme(axis.title.x = element_blank(),
-        legend.position = "bottom",
-        legend.direction = "horizontal")
+  scale_size_continuous(labels = scales::comma) +
+  my_theme +
+  labs(subtitle = "Average annualised wage increase (AAWI)\nin newly-lodged enterprise agreements",
+       caption = "Source: Fair Work Commission")
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
