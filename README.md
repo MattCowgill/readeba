@@ -82,6 +82,825 @@ fwc |>
   my_theme +
   labs(subtitle = "Average annualised wage increase (AAWI)\nin newly-lodged enterprise agreements",
        caption = "Source: Fair Work Commission")
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_stringMetric, as.graphicsAnnot(x$label)): no font could
+#> be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
 ```
 
 <img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
@@ -131,6 +950,1624 @@ fwc |>
   my_theme +
   labs(subtitle = "Average annualised wage increase (AAWI)\nin newly-lodged enterprise agreements",
        caption = "Source: Fair Work Commission")
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+#> Warning in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, :
+#> Unable to calculate text width/height (using zero)
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
+
+#> Warning in grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y, : no
+#> font could be found for family "Roboto Condensed"
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
