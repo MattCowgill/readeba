@@ -56,8 +56,7 @@ fwc
 It’s straightforward to visualise!
 
 ``` r
-my_theme <- theme_minimal(base_family = "Roboto Condensed",
-                          base_size = 14) +
+my_theme <- theme_minimal(base_size = 14) +
   theme(panel.grid.minor = element_blank(),
         axis.title = element_blank(),
         plot.caption.position = "plot",
@@ -103,7 +102,6 @@ fwc |>
                                 vjust = -0.2,
               formula = y ~ x,
               colour = "blue",
-              family = "Roboto Condensed",
               se = FALSE) +
   geomtextpath::geom_textline(aes(y = slider::slide2_dbl(.x = `AAWI (%)`,
                                        .y = `Employees covered (No.)`,
@@ -114,7 +112,6 @@ fwc |>
             na.rm = TRUE,
             label = "6 fortnight weighted moving average",
             text_smoothing = 40,
-            family = "Roboto Condensed",
             hjust = 0.15,
             vjust = 1.2,
             colour = "red") +
