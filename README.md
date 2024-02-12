@@ -10,14 +10,13 @@
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
-The goal of `{readeba}` is to download and import [data on enterprise
-agreement settlements in Australia from the Fair Work
+`{readeba}` helps you download and import [data on enterprise agreement
+settlements in Australia from the Fair Work
 Commission](https://www.fwc.gov.au/agreements-awards/enterprise-agreements/about-enterprise-agreements/statistical-reports-enterprise?idU=1).
 
 ## Installation
 
-You can install the development version of readeba from
-[GitHub](https://github.com/) with:
+You can install `{readeba}` from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
