@@ -26,7 +26,7 @@ devtools::install_github("MattCowgill/readeba")
 ## Examples!
 
 The package has one function: `read_fwc()`, which downloads and imports
-a tidy tibble containing the FWC EBA data
+a tidy tibble containing the FWC EBA data:
 
 ``` r
 library(readeba)
@@ -82,7 +82,7 @@ fwc |>
        caption = "Source: Fair Work Commission")
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
 
 Add a couple of different trend lines:
 
@@ -129,4 +129,4 @@ fwc |>
        caption = "Source: Fair Work Commission")
 ```
 
-<img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />

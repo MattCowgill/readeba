@@ -38,10 +38,7 @@ devtools::install_github("MattCowgill/readeba")
 
 ## Examples!
 
-The package has one function: `read_fwc()`, which downloads and imports a tidy tibble containing the FWC EBA data
-```{r, include = FALSE, eval = TRUE}
-hrbrthemes::import_roboto_condensed()
-```
+The package has one function: `read_fwc()`, which downloads and imports a tidy tibble containing the FWC EBA data:
 
 ```{r example}
 library(readeba)
