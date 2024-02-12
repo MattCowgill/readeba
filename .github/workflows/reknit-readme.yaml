@@ -25,7 +25,7 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v2
 
       - name: Install README deps
-        run: Rscript -e 'install.packages(c("remotes", "rmarkdown", "here", "tidyverse", "slider", "geomtextpath"))'
+        run: Rscript -e 'install.packages(c("remotes", "rmarkdown", "here", "tidyverse", "slider", "geomtextpath", "hrbrthemes"))'
 
       - name: Install packages
         run: Rscript -e 'remotes::install_deps()'
