@@ -32,6 +32,9 @@ jobs:
       # - name: Install packages
       #   run: Rscript -e 'remotes::install_deps()'
 
+      - name: Install remotes
+        run: Rscript -e 'renv::install("remotes")'
+
       - name: Install this package
         run: Rscript -e 'remotes::install_local()'
 
