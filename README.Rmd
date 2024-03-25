@@ -42,8 +42,9 @@ The package has one function: `read_fwc()`, which downloads and imports a tidy t
 
 ```{r example}
 library(readeba)
-options(tidyverse.quiet = TRUE)
-library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
 
 fwc <- read_fwc()
 

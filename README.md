@@ -30,8 +30,17 @@ a tidy tibble containing the FWC EBA data:
 
 ``` r
 library(readeba)
-options(tidyverse.quiet = TRUE)
-library(tidyverse)
+library(dplyr)
+#> 
+#> Attaching package: 'dplyr'
+#> The following objects are masked from 'package:stats':
+#> 
+#>     filter, lag
+#> The following objects are masked from 'package:base':
+#> 
+#>     intersect, setdiff, setequal, union
+library(ggplot2)
+library(tidyr)
 
 fwc <- read_fwc()
 
@@ -127,6 +136,11 @@ fwc |>
   my_theme +
   labs(subtitle = "Average annualised wage increase (AAWI)\nin newly-lodged enterprise agreements",
        caption = "Source: Fair Work Commission")
+#> Warning: The following aesthetics were dropped during statistical transformation: weight
+#> ℹ This can happen when ggplot fails to infer the correct grouping structure in
+#>   the data.
+#> ℹ Did you forget to specify a `group` aesthetic or to convert a numerical
+#>   variable into a factor?
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
