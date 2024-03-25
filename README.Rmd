@@ -83,6 +83,7 @@ fwc |>
 ```
 
 Add a couple of different trend lines:
+
 ```{r}
 fwc |> 
   filter(union == "Total") |> 
@@ -122,6 +123,6 @@ fwc |>
                      expand = expansion(c(0, 0.05))) +
   scale_size_continuous(labels = scales::comma) +
   my_theme +
-  labs(subtitle = "Average annualised wage increase (AAWI)\nin newly-lodged enterprise agreements",
+  labs(subtitle = "Average annualised wage increase (AAWI)\nin newly-lodged enterprise agreements ",
        caption = "Source: Fair Work Commission")
 ```

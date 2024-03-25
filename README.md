@@ -134,13 +134,8 @@ fwc |>
                      expand = expansion(c(0, 0.05))) +
   scale_size_continuous(labels = scales::comma) +
   my_theme +
-  labs(subtitle = "Average annualised wage increase (AAWI)\nin newly-lodged enterprise agreements",
+  labs(subtitle = "Average annualised wage increase (AAWI)\nin newly-lodged enterprise agreements ",
        caption = "Source: Fair Work Commission")
-#> Warning: The following aesthetics were dropped during statistical transformation: weight
-#> ℹ This can happen when ggplot fails to infer the correct grouping structure in
-#>   the data.
-#> ℹ Did you forget to specify a `group` aesthetic or to convert a numerical
-#>   variable into a factor?
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
