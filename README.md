@@ -45,7 +45,7 @@ library(tidyr)
 fwc <- read_fwc()
 
 fwc 
-#> # A tibble: 1,050 × 4
+#> # A tibble: 1,074 × 4
 #>    date       indicator               union  value
 #>    <date>     <chr>                   <chr>  <dbl>
 #>  1 2022-07-15 Employees covered (No.) Total  19132
@@ -58,7 +58,7 @@ fwc
 #>  8 2022-10-21 Employees covered (No.) Total  16503
 #>  9 2022-11-04 Employees covered (No.) Total 100074
 #> 10 2022-11-18 Employees covered (No.) Total  24113
-#> # ℹ 1,040 more rows
+#> # ℹ 1,064 more rows
 ```
 
 It’s straightforward to visualise!
@@ -109,6 +109,7 @@ fwc |>
                                 hjust = 0.1,
                                 vjust = -0.2,
               formula = y ~ x,
+              span = 0.5,
               colour = "blue",
               se = FALSE) +
   geomtextpath::geom_textline(aes(y = slider::slide2_dbl(.x = `AAWI (%)`,

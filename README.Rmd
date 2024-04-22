@@ -98,6 +98,7 @@ fwc |>
                                 hjust = 0.1,
                                 vjust = -0.2,
               formula = y ~ x,
+              span = 0.5,
               colour = "blue",
               se = FALSE) +
   geomtextpath::geom_textline(aes(y = slider::slide2_dbl(.x = `AAWI (%)`,
