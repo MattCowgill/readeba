@@ -22,8 +22,6 @@ jobs:
         with:
           use-public-rspm: true
 
-      - uses: r-lib/actions/setup-renv@v2
-
       - uses: r-lib/actions/setup-pandoc@v2
 
       # - name: Install README deps
@@ -33,7 +31,7 @@ jobs:
       #   run: Rscript -e 'remotes::install_deps()'
 
       - name: Install remotes
-        run: Rscript -e 'renv::install("remotes", "here")'
+        run: Rscript -e 'install.packages(c("remotes", "here"))'
 
       - name: Install this package
         run: Rscript -e 'remotes::install_local()'
