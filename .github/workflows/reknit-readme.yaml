@@ -31,7 +31,7 @@ jobs:
       #   run: Rscript -e 'remotes::install_deps()'
 
       - name: Install remotes
-        run: Rscript -e 'install.packages(c("remotes", "here"))'
+        run: Rscript -e 'install.packages(c("remotes", "here", "rmarkdown"))'
 
       - name: Install this package
         run: Rscript -e 'remotes::install_local()'
