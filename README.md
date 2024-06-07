@@ -10,7 +10,8 @@
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
-`{readeba}` helps you download and import [data on lodged enterprise agreements in Australia from the Fair Work
+`{readeba}` helps you download and import [data on enterprise agreement
+settlements in Australia from the Fair Work
 Commission](https://www.fwc.gov.au/agreements-awards/enterprise-agreements/about-enterprise-agreements/statistical-reports-enterprise?idU=1).
 
 ## Installation
