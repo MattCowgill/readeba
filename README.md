@@ -39,6 +39,9 @@ library(dplyr)
 #> The following objects are masked from 'package:base':
 #> 
 #>     intersect, setdiff, setequal, union
+```
+
+``` r
 library(ggplot2)
 library(tidyr)
 
@@ -108,7 +111,7 @@ fwc |>
               formula = y ~ x,
               se = FALSE,
               colour = "blue",
-              span = 0.5) +
+              span = 0.4) +
   geom_line(aes(y = slider::slide2_dbl(.x = `AAWI (%)`,
                                        .y = `Employees covered (No.)`,
                                        .f = \(x, y) weighted.mean(x, y),
